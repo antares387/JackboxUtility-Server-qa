@@ -1,7 +1,7 @@
 {
-    "id":"jackbox-en",
-    "name":"Jackbox Utility",
-    "description":"The community server for Jackbox Games in English!",
+    "id":"jackbox-ru",
+    "name":"Jackbox на Русском",
+    "description":"Переводы на Jackbox!",
     "image":"https://raw.githubusercontent.com/BurAndBY/JackboxUtility-Server-en/main/assets/news_images/logo.png",
 
     "urls":[
@@ -11,8 +11,8 @@
             "assets":"https://raw.githubusercontent.com/BurAndBY/JackboxUtility-Server-ru/main/assets"
         }
     ],
-    "controller":"jackbox.tv",
-    "languages":["en"],
+    "controller":"jackbox.pro",
+    "languages":["ru"],
     "links": [
         {
             "icon":"globe",
