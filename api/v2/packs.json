@@ -60,8 +60,7 @@
             "epic":"https://store.epicgames.com/p/jackbox-party-pack-1",
             "jackbox_games_store":"http://shrsl.com/44k1h"
         },
-            "patchs":[
-				{
+            "patchs":[{
                     "id": "jpp1_pro",
                     "name": "The Jackbox Party Pack 1",
                     "small_description": "Плодослов - перевод на WordSpud.",
@@ -89,8 +88,8 @@
                                 "audios": false
                             }
                         }
-				}
-			],
+                    ]
+		}],
         "games":[
             {
                 "id":"ydkj2015",
