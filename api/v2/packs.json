@@ -35,7 +35,7 @@
     "packs":[
     {
         "id":"jpp1",
-        "name":"The Jackbox Party Pack 1",
+        "name":"The Jackbox Party Pack",
         "description":"Year of release: 2014",
         "launchers_id":{
             "steam":"331670",
@@ -60,16 +60,17 @@
             "epic":"https://store.epicgames.com/p/jackbox-party-pack-1",
             "jackbox_games_store":"http://shrsl.com/44k1h"
         },
-            "patchs":[[{
+            "patchs":[
+				{
                     "id": "jpp1_pro",
                     "name": "The Jackbox Party Pack 1",
-                    "small_description": "Доступен перевод на Wordspud - Плодослов.",
-                    "description": "Доступен перевод на Wordspud - Плодослов.",
+                    "small_description": "Плодослов - перевод на WordSpud.",
+                    "description": "Плодослов - перевод на WordSpud.",
                     "version": "Build:  b0.1 - RU",
                     "patch_path": "https://files.catbox.moe/t0s8tp.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://files.catbox.moe/lauo8h.txt",
+                        "version_file": "https://files.catbox.moe/8rzgea.txt",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -77,9 +78,9 @@
                             "id": "wordspud_patch",
                             "linked_game": "wordspud",
                             "name": "Плодослов",
-                            "description": "Текст на русском с 35 тысячью словами.",
+                            "description": "Плодослов - перевод на WordSpud с 35 тысячью словами.",
                             "authors": "Пускай",
-                            "small_description": "Текст на русском с 35 тысячью словами.",
+                            "small_description": "Плодослов - перевод на WordSpud с 35 тысячью словами.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
@@ -88,8 +89,8 @@
                                 "audios": false
                             }
                         }
-                    ]
-                }],
+				}
+			],
         "games":[
             {
                 "id":"ydkj2015",
@@ -185,7 +186,7 @@
             },
             {
                 "id":"wordspud",
-                "name":"Word Spud",
+                "name":"Плодослов",
                 "background":"game_backgrounds/WordSpud.webp",
                 "path":"games/WordSpud",
                 "game_info":{
@@ -202,13 +203,13 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"Players can submit text.",
+                    "moderation_description":"Игроки могут писать текст.",
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
                     "tagline":"PASS IT AROUND",
                     "small_description":"PASS IT AROUND",
-                    "description":"Keep the words rolling all night! Just finish the word coming toward you, like “Mail___.” Mail enhancement, you say? You nailed it.",
+                    "description":"Передавайте слова целую ночь! Просто продолжите ваше слово... Например: \"Почта___.\" Твой вариант – \"Почта из спама\"? Ты понял суть.",
                     "images":[
                         "game_images/WordSpud/wordspud.mp4",
                         "game_images/WordSpud/wordspud_1.webp",
