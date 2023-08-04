@@ -36,7 +36,7 @@
     {
         "id":"jpp1",
         "name":"The Jackbox Party Pack",
-        "description":"Year of release: 2014",
+        "description":"Год выпуска: 2014",
         "launchers_id":{
             "steam":"331670",
             "epic":"Feverfew"
@@ -66,7 +66,7 @@
                     "small_description": "Плодослов - перевод на WordSpud.",
                     "description": "Плодослов - перевод на WordSpud.",
                     "version": "Build:  b0.1 - RU",
-                    "patch_path": "https://files.catbox.moe/t0s8tp.zip",
+                    "patch_path": "https://files.catbox.moe/qt5zgo.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://files.catbox.moe/8rzgea.txt",
