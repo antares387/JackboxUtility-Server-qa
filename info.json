@@ -1,7 +1,7 @@
 {
     "id":"jackbox-ru",
     "name":"Jackbox на Русском",
-    "description":"Переводы на Jackbox!",
+    "description":"Переводы и модификации на Jackbox от Translate Guardians!",
     "image":"https://raw.githubusercontent.com/BurAndBY/JackboxUtility-Server-ru/main/assets/news_images/logo.png",
 
     "urls":[
@@ -11,7 +11,7 @@
             "assets":"https://raw.githubusercontent.com/BurAndBY/JackboxUtility-Server-ru/main/assets"
         }
     ],
-    "controller":"jackbox.pro",
+    "controller":"jack.trgu.ru",
     "languages":["ru"],
     "links": [
         {
